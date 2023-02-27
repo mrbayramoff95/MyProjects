@@ -2,8 +2,7 @@ package lessons2;
 
 public class Months {
     public static void main(String[] args) {
-        int i = 0;
-        for (; i < 12; i++)
+        for (int i = 0; i < 12; i++)
             switch (i) {
                 case 0:
                     System.out.println("Январь");

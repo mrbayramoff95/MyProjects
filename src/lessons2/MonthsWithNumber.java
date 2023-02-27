@@ -11,19 +11,19 @@ public class MonthsWithNumber {
         int num5 = 5;
         int num6 = 6;
 
-        if (num1 < mm) ;
-        else if (num1 < num4) ;
-        if (mm > num1) ;
-        else if (num5 > num4) ;
-        if (mm > num5) ;
-        else if (mm < num5) ;
-        else ;
-        if (num5 >= num6) ;
+        if (num1 < mm);
+        else if (num1 < num4);
+        if (mm > num1);
+        else if (num5 > num4);
+        if (mm > num5);
+        else if (mm < num5);
+        else;
+        if (num5 >= num6);
         else if (num6 <= mm)
-            if (num2 < num1) ;
-            else if (num2 <= num5) ;
-        if (num6 > num1) ;
-        else if (num1 <= num5) ;
+            if (num2 < num1);
+            else if (num2 <= num5);
+        if (num6 > num1);
+        else if (num1 <= num5);
         {
             System.out.println("12. Декабрь");
         }

@@ -9,7 +9,7 @@ public class input_output {
         Scanner scanner = new Scanner(System.in);
         i = scanner.nextInt();
 
-        if(i % 2 == 0) {
+        if (i % 2 == 0) {
             System.out.println("Число " + i + " четное");
         } else {
             System.out.println("Число " + i + " нечетное");

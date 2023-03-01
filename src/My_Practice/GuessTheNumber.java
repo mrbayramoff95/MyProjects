@@ -1,4 +1,4 @@
-package MyPractice;
+package My_Practice;
 
 import java.util.Random;
 import java.util.Scanner;

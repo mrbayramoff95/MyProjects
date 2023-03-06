@@ -13,9 +13,6 @@ public class Main {
         phone.receiveCall("Dima");
         phone1.receiveCall("Masha");
         phone2.receiveCall("Sasha");
-        phone.receiveCall("Dima", 251234567);
-        phone1.receiveCall("Masha", 291223344);
-        phone2.receiveCall("Sasha", 333213214);
         System.out.println(Arrays.toString(phone.sendMessage(251234567, 291223344, 333213214)));
 
     }

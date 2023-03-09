@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6.Computer;
 
 public class Hdd {
     String name;
